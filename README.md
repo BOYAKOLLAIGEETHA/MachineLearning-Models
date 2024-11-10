@@ -1,4 +1,4 @@
-#Linear Regression Model
+**Linear Regression Model**
 This repository contains a simple implementation of a Linear Regression model using Python and scikit-learn. Linear Regression is a supervised learning algorithm that predicts a continuous target variable based on the linear relationship with one or more predictor variables.
 
 #Table of Contents
